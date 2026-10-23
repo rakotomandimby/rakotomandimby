@@ -1,8 +1,8 @@
-# AI-Powered Development Ecosystem
+# AI-Powered Development Ecosystem I am author of
 
 ## Table of Contents
 
-- [code-ai.nvim & code-ai-agent](#i-am-the-author-of-the-ai-powered-development-ecosystem-code-ainvim--code-ai-agent)
+- [code-ai.nvim & code-ai-agent](#ai-powered-development-ecosystem-code-ainvim--code-ai-agent)
   - [Architecture Overview](#architecture-overview)
   - [How They Work Together](#how-they-work-together)
     - [1. Dual Execution Modes with Dynamic Threshold Routing](#1-dual-execution-modes-with-dynamic-threshold-routing)
@@ -27,7 +27,7 @@
 
 ---
 
-# I am the author of the AI-Powered Development Ecosystem: `code-ai.nvim` & `code-ai-agent`
+# AI-Powered Development Ecosystem: `code-ai.nvim` & `code-ai-agent`
 
 An advanced, developer-first AI pair-programming ecosystem for Neovim. By combining a lean, asynchronous Neovim Plug-in ([`code-ai.nvim`](https://github.com/code-ai-nvim/code-ai.nvim)) with a dedicated Node.js/TypeScript microservices backend ([`code-ai-agent`](https://github.com/code-ai-nvim/code-ai-agent)), this setup bridges high-context codebase reasoning and editor responsiveness.
 
